@@ -10,19 +10,19 @@ I'm pursuing an M.S. in Computer Science at the University of South Florida. I b
 
 A classification project with a Streamlit interface for exploring credit-risk predictions. The modeling notebook compares Decision Tree, Random Forest, and XGBoost models using cross-validation; the application uses a saved Random Forest model.
 
-**Tools:** Python, pandas, scikit-learn, XGBoost, Streamlit, joblib
+**Tools:** Python, pandas, NumPy, scikit-learn, XGBoost, Matplotlib, Seaborn, Streamlit, joblib, Jupyter Notebook
 
 ### [Earnings Call RAG](https://github.com/mmsinclair13/earnings_call_rag)
 
 An ongoing project to prepare earnings-call transcripts for retrieval-augmented analysis. The public repository contains PDF ingestion and transcript-processing work; chunking, semantic retrieval, and answer generation remain under development.
 
-**Tools:** Python, pypdf, JSON
+**Tools:** Python, pypdf, JSON, pathlib, regular expressions (re)
 
 ### [FinView](https://github.com/mmsinclair13/finview)
 
 A sandbox web application that connects bank accounts through Plaid and synchronizes transactions into SQLite. Its dark dashboard shows cash flow, spending activity, categories, and transaction history, with incremental synchronization and bank disconnection support.
 
-**Tools:** Node.js, Express, SQLite, Plaid API, JavaScript, Bootstrap
+**Tools:** JavaScript, Node.js, Express, SQLite, Plaid API & Link, HTML, CSS, Bootstrap, dotenv, nodemon, Render
 
 ## Beyond the public repositories
 
