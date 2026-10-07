@@ -24,8 +24,6 @@ A sandbox web application that connects bank accounts through Plaid and synchron
 
 **Tools:** Node.js, Express, SQLite, Plaid API, JavaScript, Bootstrap
 
-[Open the live sandbox demo](https://finview-q81m.onrender.com/)
-
 ## Beyond the public repositories
 
 - **U.S. residential energy analysis:** R and Tidyverse for historical energy-data analysis, regression, hypothesis testing, and ARIMA forecasting, with Power BI visualizations.
