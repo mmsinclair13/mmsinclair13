@@ -16,7 +16,7 @@ A classification project with a Streamlit interface for exploring credit-risk pr
 
 An ongoing project to prepare earnings-call transcripts for retrieval-augmented analysis. The public repository contains PDF ingestion and transcript-processing work; chunking, semantic retrieval, and answer generation remain under development.
 
-**Tools:** Python, pypdf, JSON, pathlib, regular expressions (re)
+**Tools:** Python, pypdf, JSON, pathlib
 
 ### [FinView](https://github.com/mmsinclair13/finview)
 
