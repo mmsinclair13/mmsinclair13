@@ -18,16 +18,17 @@ An ongoing project to prepare earnings-call transcripts for retrieval-augmented 
 
 **Tools:** Python, pypdf, JSON
 
-### [Breast Cancer Classification](https://github.com/mmsinclair13/Cancer_Prediction_LR_Model)
+### [FinView](https://github.com/mmsinclair13/finview)
 
-An exploratory logistic-regression notebook for malignant/benign classification. This learning project focuses on preprocessing, model fitting, and evaluation, with reproducibility and validation improvements still needed.
+A sandbox web application that connects bank accounts through Plaid and synchronizes transactions into SQLite. Its dark dashboard shows cash flow, spending activity, categories, and transaction history, with incremental synchronization and bank disconnection support.
 
-**Tools:** Python, pandas, scikit-learn, Jupyter
+**Tools:** Node.js, Express, SQLite, Plaid API, JavaScript, Bootstrap
+
+[Open the live sandbox demo](https://finview-q81m.onrender.com/)
 
 ## Beyond the public repositories
 
 - **U.S. residential energy analysis:** R and Tidyverse for historical energy-data analysis, regression, hypothesis testing, and ARIMA forecasting, with Power BI visualizations.
-- **Personal finance analytics:** A sandbox application using Node.js, Express, SQLite, and Plaid for transaction ingestion and relational storage. Spending dashboards are under development.
 
 ## Background
 
